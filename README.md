@@ -204,5 +204,6 @@ elif l_3> l_1 and l_3> l_1:
     print("No se puede contruir un trinagulo")
 ```
 
-Link del notebook: https://colab.research.google.com/drive/1aohk3O5l6fLLWTl8CZ_7gphbV3DZck9k#scrollTo=87LgEVhjylOV)https://colab.research.google.com/drive/1aohk3O5l6fLLWTl8CZ_7gphbV3DZck9k#scrollTo=87LgEVhjylOV
+Link del notebook: 
+https://colab.research.google.com/drive/1aohk3O5l6fLLWTl8CZ_7gphbV3DZck9k?usp=sharing
 
