@@ -203,3 +203,5 @@ elif l_3> l_1 and l_3> l_1:
   else:
     print("No se puede contruir un trinagulo")
 ```
+
+[Documento]: RETO4.ipynb
